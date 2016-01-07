@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C54094C5-A9FC-47DC-AEE3-E313D161772C">
+  <lastEdited clientType="local-build-20160107" date="2016-01-07 23:22:41 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Fred Johnston&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Frederick Johnston was born in Mercedes,Texas a small town in South Texas. His mother was a single parent who raised 8 kids. Trying to survive &#xFB01;nancially, he worked as a shoe shine boy, worked in the hot &#xFB01;elds picking cotton, tomatoes, lettuce. Every spare moment after school hours, was spent working and contributing on making ends meet with the big family. He was certainly disadvantaged but his mother always stressed the importance of an education. Being a good athlete, he excelled in Football, Basketball, Track and &#xFB01;eld and Baseball in high school. In college, Dr. Johnston received a track scholarship and in his sophomore year he won national champion in the High Hurdles. The following year he won the Lone Star conference hurdle award. &#xD;&#xD;Following College, he was drafted into the US Army where he served as a medic, dental assistant, dental technician and dental hygienist. He continued to accelerate in sports in the Army. In the Army he received the outstanding trainee award, runner up leadership award and maximized the PT test of 500 points twice. &#xD;&#xD;After the US ARMY, Dr. Johnston was accepted to UCLA School of Dentistry. He continued to compete in AAU track competition. At UCLA, he continued to train for the decathlon his junior and senior year.  &#xD;&#xD;After UCLA, UCSF accepted Dr. Johnston for the Orthodontic program where he received his certificate in Orthodontics. He has continued to compete in Masters Track and Field where he has won 3 world championship title in the High Hurdles. He has been a single parent raising his two great Kids, Mark and Rachel. At the present, he is the owner of Olympic Orthodontics in Dubln, California. Dr. Johnston has 38 years of experience practicing Orthodontics.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;July 30, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Dr._Fred_Johnston_files/shapeimage_4.png" left="0px" top="0px" width="215px" height="307px"/>
+</content>

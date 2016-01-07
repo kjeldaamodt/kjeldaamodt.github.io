@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="38E56993-87D8-4F72-8B3F-31392B9849EA">
+  <lastEdited clientType="local-build-20160107" date="2016-01-07 23:22:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Erick Lainez&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;My name is Erick Lainez and I am the Front Desk Billing Supervisor for the Orthodontic Division here at UCSF. I am a San Francisco native and currently reside in the North Bay. I have worked in the dental field for the past 7 years in both general and specialty practices. The most rewarding part of working in an Orthodontic practice is not only the staff and doctors you work with, but also the patients who one day walk in with a concern they want to address and end up with that million dollar smile they always wanted. On my spare time I enjoy reading, writing, walking my dog, trying new food, and spending time with family and friends.  &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, November 25, 2015&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160107" date="2016-01-07 23:22:36 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Elizabeth Eve is a Bay Area native who loves San Francisco's abundance of parks and hiking trails. She completed her undergraduate and dental training at Harvard University, where her professional interests included dental education and public health. Elizabeth enjoys the interdisciplinary nature of orthodontic care and tailoring her treatment approach to obtain the functional and esthetic goals of her patients. &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Elizabeth Eve&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;November 25, 2015&lt;/b&gt;</richText>
+  </textBox>
+</content>

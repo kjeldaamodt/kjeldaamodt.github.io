@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160107" date="2016-01-07 23:22:36 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Paiyal Popat grew up in Orlando, Florida where she studied micro/molecular biology at the University of Central Florida. Here was where she discovered her passion for dentistry and made the big move to Boston, Massachusetts to attend the Harvard School of Dental Medicine (HSDM) to receive her dental degree. &#xD;&#xD;At HSDM, Paiyal had the opportunity to treat a variety of patients, assist orthodontic faculty, and conduct research on assessing access to oral health care for individuals with special needs and for individuals who are homeless. Additionally, Paiyal was able to continue her hobby of choreography and dance at HSDM. There she saw how mapping formations, planning smooth transitions, ensuring that there is appropriate time for each movement, and lastly, perfecting the fine details are the core principles that are shared in both choreography and the practice of orthodontics.&#xD;At the innovative orthodontic program of UCSF, Paiyal plans to hone her skills as an orthodontist while expanding her interest in public health through research focused on the influence of diet on skeletal and dental malocclusion.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Paiyal Popat&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;November 25, 2015&lt;/b&gt;</richText>
+  </textBox>
+</content>

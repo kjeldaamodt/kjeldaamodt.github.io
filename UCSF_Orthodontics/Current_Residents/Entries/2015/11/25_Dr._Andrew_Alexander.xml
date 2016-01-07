@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160107" date="2016-01-07 23:22:38 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Drew Alexander enjoys traveling to exotic places, the beach, snowboarding, hiking the awesome bay area trails, attending live sporting events, and pigging out on the amazing cuisine the city of San Francisco has to offer!&#xD;&#xD;Born and raised in San Diego, stayed local for my undergraduate studies at UCSD, and then ventured out of the SoCal nest for an east coast experience where I attended Temple University school of dentistry.&#xD;&#xD;&#x201C;The change that orthodontics is able to create in terms of a person&#x2019;s self confidence, appearance, and function are some of the things that I think make this profession awesome!&#x201D;   &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;November 25, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Andrew Alexander&lt;/b&gt;</richText>
+  </textBox>
+</content>

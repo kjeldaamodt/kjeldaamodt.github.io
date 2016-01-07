@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Current Events</title>
+    <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events</link>
+    <description>Contact Us for a Free Consultation
+We provide high-quality Orthodontic Care including Clear Aligners like Invisalign.
+To schedule your free consultation with a faculty member or resident, please call 415.476.2841. You may request a faculty member or resident when you call to schedule your appointment, depending on the type of provider you prefer.</description>
+    <item>
+      <title>Orthodontic Residency</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2015/12/20_Orthodontic_Residency.html</link>
+      <guid isPermaLink="false">62730697-7e26-4b1b-a8c2-fd7747cb47a7</guid>
+      <pubDate>Sun, 20 Dec 2015 12:31:15 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2015/12/20_Orthodontic_Residency.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Orthodontist Fellowship</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/11/15_Prospective_International_Orthodontists.html</link>
+      <guid isPermaLink="false">66f6a352-100e-439f-ab44-5fc00c75c5e3</guid>
+      <pubDate>Thu, 15 Nov 2012 21:01:19 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/11/15_Prospective_International_Orthodontists.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Preceptorship for Dentists</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/11/15_International_Preceptorship_for_Dentists.html</link>
+      <guid isPermaLink="false">90edcf78-5f3a-44fd-9969-e07006188df4</guid>
+      <pubDate>Thu, 15 Nov 2012 08:25:02 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/11/15_International_Preceptorship_for_Dentists.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Halloween RULE for Candy </title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/10/28_Halloween_RULE_for_Candy.html</link>
+      <guid isPermaLink="false">a0bcd1fb-8b0d-4782-97b4-33f836aaa944</guid>
+      <pubDate>Sun, 28 Oct 2012 08:51:28 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/10/28_Halloween_RULE_for_Candy.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Continuing Education</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/8/22_Continuing_Education.html</link>
+      <guid isPermaLink="false">9fc1fc6c-cf54-4cac-9c02-32190a248471</guid>
+      <pubDate>Wed, 22 Aug 2012 21:00:47 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/8/22_Continuing_Education.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Clinic Event</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/8/22_Clinic_Event.html</link>
+      <guid isPermaLink="false">40da749b-e24f-459a-9906-0f73a3ea147e</guid>
+      <pubDate>Wed, 22 Aug 2012 21:00:14 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/8/22_Clinic_Event.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Orthodontic Conference</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/8/22_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">e8e4f3a2-d51e-4fde-929c-a23d855c9966</guid>
+      <pubDate>Wed, 22 Aug 2012 10:28:13 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events/Entries/2012/8/22_Day_of_longboarding.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Current_Events</iweb:baseURL>
+    <iweb:maximumSummaryItems>3</iweb:maximumSummaryItems>
+  </channel>
+</rss>
