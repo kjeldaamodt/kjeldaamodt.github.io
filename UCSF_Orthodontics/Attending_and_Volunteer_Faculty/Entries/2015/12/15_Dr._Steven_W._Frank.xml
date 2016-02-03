@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C54094C5-A9FC-47DC-AEE3-E313D161772C">
+  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Steven W. Frank&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Steven Frank is the Postgraduate Residency Program Director and a Clinical Professor for the Division of Orthodontics in the Department of Orofacial Sciences at the University of California, San Francisco (UCSF). Dr. Frank first attended the University of California, Berkeley where he earned a B.A. in Neurobiology. He subsequently went to Georgetown University, School of Dentistry, where he received a DDS. He then completed an orthodontic residency at Loma Linda University, Department of Orthodontics and earned a M.S. in Orthodontics. He is also a Diplomate of the American Board of Orthodontics. Dr. Frank came to UCSF after over 30 years of private practice and then transitioned into academic teaching, by initially joining the orthodontic faculty as part time instructor and then being appointed as the full time Orthodontic Postgraduate Program Director. Dr. Frank is passionate about teaching all aspects of orthodontics and dentofacial orthopedics, but likes to focus on early treatment, quality finishing of orthodontic cases, and advanced diagnosis and treatment planning.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;December 15, 2015&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Dr._Steven_W._Frank_files/shapeimage_4.png" left="0px" top="0px" width="215px" height="307px"/>
+</content>

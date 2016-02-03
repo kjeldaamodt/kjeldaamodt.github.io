@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Faculty Clinic</title>
+    <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Faculty_Clinic</link>
+    <description>The UCSF Orthodontics Faculty Clinic includes board-certified or board-eligible orthodontists with years of practice experience. All providers are UCSF faculty members. They are at the forefront of the orthodontics profession, publishing research and teaching the next generation of dentists and orthodontic specialists.
+
+If time is an important factor for you, regular visits in faculty clinic are more efficient than in the residency program. The faculty clinic is most like a private orthodontic practice.
+
+The list below includes Orthodontic Faculty Clinic Providers and other distinguished faculty in our division at UCSF.</description>
+    <item>
+      <title>Dr. Kjeld Aamodt</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Faculty_Clinic/Entries/2016/2/3_Dr._Kjeld_Aamodt.html</link>
+      <guid isPermaLink="false">d8d46d07-289e-4f0d-b32a-1ba97fef15e7</guid>
+      <pubDate>Wed, 3 Feb 2016 12:55:15 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Faculty_Clinic/Entries/2016/2/3_Dr._Kjeld_Aamodt.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Dr. Sneha Oberoi</title>
+      <link>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Faculty_Clinic/Entries/2016/2/3_Dr._Sneha_Oberoi.html</link>
+      <guid isPermaLink="false">6a9df722-6e88-4590-8374-bdcb7079b352</guid>
+      <pubDate>Wed, 3 Feb 2016 12:46:00 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Faculty_Clinic/Entries/2016/2/3_Dr._Sneha_Oberoi.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://carmelartist.com/ucsfortho/UCSF_Orthodontics/Faculty_Clinic</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

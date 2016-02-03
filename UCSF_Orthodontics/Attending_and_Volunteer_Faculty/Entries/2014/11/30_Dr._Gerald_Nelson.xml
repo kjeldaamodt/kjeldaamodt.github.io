@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C54094C5-A9FC-47DC-AEE3-E313D161772C">
+  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Gerald Nelson&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Gerald Nelson graduated from the UC School of Dentistry in 1965 with a DDS and an Orthodontic Specialty Certificate. &#xD;Jerry started with UCSF Division of Orthodontics as faculty in 1994, and has at times held the positions of Clinic Director, Vice Chair and Interim Chair of the Orthodontic Division. Presently he is full time clinical faculty.  In 1972, he and his private practice partner, Dr. Michael Meyer, co-founded an evening mixed dentition orthodontic clinic at La Clinica de la Raza in Oakland that continues and includes orthodontic residents.  For over 20 years, he held a post of Clinical Editor for the American Journal of Orthodontics, and Editor in Chief of the Pacific Coast Society of Orthodontists Bulletin.  Collaboration with Korean Orthodontic University Programs has resulted in many publications on the use of temporary anchorage devices.  He has been listed as one of the top 100 authors for the American Journal of Orthodontics and Dental Orthopedics, and has reviewed over 100 articles for that publication. He has lectured on the use of 3D radiography for orthodontic treatment planning. He was honored with the opportunities to deliver the Alton Moore Lecture at the University of Washington in 2014, and the Mershon Lecture at the AAO Annual Session in San Francisco in 2015.&#x2028;Jerry and his wife, Pamela Grove, have six grown children and seven grandchildren.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;November 30, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Dr._Gerald_Nelson_files/shapeimage_4.png" left="0px" top="0px" width="215px" height="307px"/>
+</content>

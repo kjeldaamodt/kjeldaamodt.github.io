@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="A14B7412-57B6-441C-9931-FA62DA6B98C4">
+  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:46 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Aamodt&#x2019;s Faculty Practice focus&#x2019; on Invisalign, clear braces, and&#xA0;accelerated tooth straightening treatments. &#xD;&#xD;He was&#xA0;recently quoted for the Wall Street Journal article on Adult Orthodontics. &#x201C;Orthodontics combines health care with art,&#x201D; Kjeld says. &#x201C;Our patients&#x2019; faces are&#xA0;our canvases, and those smiles are showcased every day and have meaning for everything our patients do.&#x201D;&#xD;&#xD;Dr. Aamodt attended UCSF School of Dentistry, he completed a residency in the UCSF Division of Orthodontics.&#xA0;Dr. Aamodt has been involved in orthodontic research for several years,&#xA0;with a focus on understanding how the burden of malocclusion is distributed worldwide and how this has changed during the course of history, with a particular interest in why malocclusion develops. As a resident, Dr. Aamodt helped to build a network of universities in Central and South America to study how malocclusion and tooth decay may affect quality of life for indigenous groups.&#xA0;&#xD;&#xD;Kjeld Aamodt surfs and scuba dives, speaks Spanish, plays jazz guitar and bass, and recently got his private pilot&#x2019;s license. &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Kjeld Aamodt&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, February 3, 2016&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Dr._Kjeld_Aamodt_files/shapeimage_4.png" left="0px" top="0px" width="224px" height="297px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C54094C5-A9FC-47DC-AEE3-E313D161772C">
+  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:45 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Nga Hoang&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Nga recognized that volunteer faculty members had a pivotal role in shaping her professionally. &lt;/b&gt;Thus, she is ecstatic to be able to give back her time to the Division of Orthodontics as Volunteer Assistant Clinical Professor, teaching the residents orthodontic literature review as well as preparing them for the ABO written exam. Outside of teaching and practicing orthodontics, Nga enjoys salsa-dancing, reading, and being one with the great outdoors.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 30, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Dr._Nga_Hoang_files/shapeimage_4.png" left="0px" top="0px" width="239px" height="332px"/>
+</content>
