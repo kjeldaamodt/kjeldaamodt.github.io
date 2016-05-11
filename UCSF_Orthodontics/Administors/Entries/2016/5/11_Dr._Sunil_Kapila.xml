@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="7D10B87A-4461-4393-ACAE-D617B6ECA1F1">
+  <lastEdited clientType="local-build-20160511" date="2016-05-11 16:47:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Sunil Kapila&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Dr. Sunil Kapila</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Sunil Kapila is Professor and Eugene E. West Endowed Chair of Orthodontics at University of California San Francisco. He obtained his dental degree at the University of Nairobi, Kenya, an MS in orthodontics at University of Oklahoma as a Fulbright-Hayes Scholar, and a PhD in Oral Biology from University of California San Francisco (UCSF). He served as first Eugene E. West Endowed Chair of Orthodontics at UCSF prior to being recruited to the University of Michigan to Chair the Department of Orthodontics and Pediatric Dentistry for 11 years before returning to UCSF in 2016. Dr. Kapila is a Diplomate of the American Board of Orthodontics.&#xD;&#xD;Dr. Kapila has received several research and clinical awards including the American Association for Dental Research&#x2019;s Hatton Award, the American Association of Orthodontist&#x2019;s (AAO) Milo Hellman Award, and the B.F. Dewel Honorary Research Award from the AAO Foundation. He has also been recognized for his contributions to orthodontics by being selected by the AAO to present the prestigious Jacob A. Salzmann Lecture at their Annual Meeting in 2013. &#xD;&#xD;Dr. Kapila&#x2019;s NIH-funded research focuses on the hormonal basis for TMJ degeneration and periodontal bone biology. He has published many peer-reviewed papers, chapters and proceedings on these topics, and on orthodontic biomaterials, biomechanics and 3D imaging. He is co-PI on an NIH Institutional Career Development (K12) Award whose focus is to enhance research capacity in TMJ Disorders and Orofacial Pain. Besides authoring numerous manuscripts and chapters, he has published two textbooks &#x201C;Current Therapy in Orthodontics&#x201D; and &#x201C;Cone Beam Computed Tomography in Orthodontics.&#x201D; Dr. Kapila serves on the editorial board or as a reviewer of several journals and has served as a member of several NIH grant review panels.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;May 11, 2016&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Dr._Sunil_Kapila_files/shapeimage_5.png" left="0px" top="0px" width="221px" height="311px"/>
+</content>

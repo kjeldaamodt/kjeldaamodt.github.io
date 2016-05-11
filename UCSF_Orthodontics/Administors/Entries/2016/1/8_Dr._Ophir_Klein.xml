@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="7D10B87A-4461-4393-ACAE-D617B6ECA1F1">
-  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:46 +0000"/>
+  <lastEdited clientType="local-build-20160511" date="2016-05-11 16:47:51 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Dr. Ophir Klein&lt;/b&gt;</richText>
   </textBox>
@@ -11,7 +11,7 @@
     <richText>&lt;b&gt;Ophir Klein is the Larry L. Hillblom Distinguished Professor in Craniofacial Anomalies, Professor of Orofacial Sciences and Pediatrics, and Chair of the Divisions of Craniofacial Anomalies and Orthodontics at the University of California, San Francisco (UCSF). He is also the Medical Director of the UCSF Craniofacial Center and Director of the UCSF Program in Craniofacial Biology. Dr. Klein was educated at the University of California, Berkeley, where he earned a B.A. in Spanish Literature. He subsequently attended Yale University School of Medicine, where he received a Ph.D. in Genetics and an M.D.. He then completed residencies at Yale-New Haven Hospital in Pediatrics and at UCSF in Clinical Genetics. Work in Dr. Klein&#x2019;s research group centers on organ development and regeneration, with a major focus on understanding the processes underlying craniofacial development and integrating evolutionary and developmental approaches.&lt;/b&gt;</richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
-    <richText>&lt;b&gt;Friday, January 8, 2016&lt;/b&gt;</richText>
+    <richText>&lt;b&gt;January 8, 2016&lt;/b&gt;</richText>
   </textBox>
-  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Dr._Ophir_Klein_files/shapeimage_5.png" left="0px" top="0px" width="221px" height="312px"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Dr._Ophir_Klein_files/shapeimage_5.png" left="0px" top="0px" width="221px" height="311px"/>
 </content>
