@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
-  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:41 +0000"/>
+  <lastEdited clientType="local-build-20160510" date="2016-05-11 03:26:24 +0000"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Alice Goodwin is a 3rd year resident and lives in San Francisco and likes to cook, run and hike all over the Bay Area. Since dental school, she has been interested in both treating patients and doing research in the lab. She completed dental school and a PhD at UCSF, studying how teeth develop and in particular how enamel, the hard outer covering of the teeth, forms. With her interest in craniofacial biology, she learned more about the exciting world of orthodontics, and she is now treating patients in the UCSF Orthodontic Clinic, learning to create beautiful and functional smiles. She plans to pursue an academic career to both treat patients and learn basic biology in the lab that may improve patient care in the future.&lt;/b&gt;</richText>
   </textBox>

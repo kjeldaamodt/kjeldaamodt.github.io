@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160510" date="2016-05-11 03:26:26 +0000"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Dr._Christian_Hagge_files/shapeimage_3.png" left="0px" top="0px" width="259px" height="349px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Eric grew up in Illinois, where he received his DMD degree from Southern Illinois University - School of Dental Medicine. In addition to studying orthodontics at UCSF he is collaborating to develop a Bluetooth enabled "SmartByte" retainer that can be synced to a mobile app. He hopes his work &#xA0;will greatly improve orthodontic compliance and long term outcomes after braces. In his free time he enjoys golfing, exploring The City and everything outdoors!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Christian Hagge&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;May 10, 2016&lt;/b&gt;</richText>
+  </textBox>
+</content>

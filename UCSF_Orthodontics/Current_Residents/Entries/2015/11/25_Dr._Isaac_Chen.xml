@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
-  <lastEdited clientType="local-build-20160203" date="2016-02-03 21:06:41 +0000"/>
+  <lastEdited clientType="local-build-20160510" date="2016-05-11 03:26:24 +0000"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Isaac Chen, an Argentinian-Asian-American, loves eating Argentinian empanadas, Chinese dim sum and American BBQ. He speaks Spanish, Chinese and Taiwanese, enjoys weekends watching action movies and spending quality time with friends and family. With his diverse culture and multilingual capabilities, he treats his patients with personable and customized patient centered care. &#xD;&#xD;As a resident at UCSF, he studies orthodontics and craniofacial anomalies, treats patients and conducts research. Isaac&#x2019;s research focuses on sequencing supragingival dental plaque responsible for WSLs during fixed appliance orthodontic treatment. His goal is to advance the understanding of the microbial species involved in the etiology of WSLs and lead to the development of specific, targeted antimicrobial approaches to inhibit WSLs during orthodontic therapy. &lt;/b&gt;</richText>
   </textBox>
