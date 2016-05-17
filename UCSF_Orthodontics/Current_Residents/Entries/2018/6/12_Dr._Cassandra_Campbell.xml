@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160517" date="2016-05-17 22:08:19 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Cassandra Campbell is a first year orthodontic resident at UCSF and graduated dental school from University of Michigan, Go Blue! She grew up in Redding, California and received her B.S. in Molecular, Cellular and Developmental Biology from UC Santa Cruz in 2011. In her free time she enjoys playing soccer, training for her next half marathon, painting, or just taking it easy with a cup of coffee and a good book. She is currently learning how to play the guitar so she can jam with her talented father when she visits him in Redding. Throughout dental school her research focused on pharmaceutical interventions for premature fusion of cranial sutures, and she is excited to continue studying craniofacial anomalies and treating patients of a diverse background. Every day she looks forward to a helping her patients feel confident and communicating that to the world with a beautiful smile.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;June 12, 2018&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Cassandra Campbell&lt;/b&gt;</richText>
+  </textBox>
+</content>

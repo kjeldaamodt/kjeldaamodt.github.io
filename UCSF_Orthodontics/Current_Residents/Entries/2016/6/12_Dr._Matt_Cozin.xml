@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160517" date="2016-05-17 22:08:21 +0000"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Dr._Matt_Cozin_files/shapeimage_3.png" left="0px" top="0px" width="236px" height="324px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Matt Cozin grew up in New Jersey and went to Wesleyan University in Connecticut for his undergraduate education.&#xA0; After college, he moved to Manhattan and worked at Columbia University&#x2019;s College of Dental Medicine doing research and then went on to complete his DDS there.&#xD;Matt enjoys staying active; jogging, hiking, biking, spending time at the gym.&#xA0; He also loves rock music, cooking, and eating!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Matt Cozin&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;June 12, 2016&lt;/b&gt;</richText>
+  </textBox>
+</content>

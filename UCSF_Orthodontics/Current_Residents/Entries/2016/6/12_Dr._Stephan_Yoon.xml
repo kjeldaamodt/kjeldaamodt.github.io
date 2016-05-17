@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="298A62F2-1761-458F-92FB-E57081CB5E00">
+  <lastEdited clientType="local-build-20160517" date="2016-05-17 22:08:22 +0000"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Dr._Stephan_Yoon_files/shapeimage_3.png" left="0px" top="0px" width="259px" height="349px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Stephan Yoon is a third orthodontic resident, who completed his dental training at Harvard School of Dental Medicine and undergraduate at UC Berkeley.&#xA0; He grew up in Korea until when his family moved to Orange County, Southern California. &#xA0;&#xD;&#xD;When not doing orthodontics, he enjoys hiking, snowboarding, playing basketball, cycling, photography, and playing guitar. &#xA0;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Dr. Stephan Yoon&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;June 12, 2016&lt;/b&gt;</richText>
+  </textBox>
+</content>
