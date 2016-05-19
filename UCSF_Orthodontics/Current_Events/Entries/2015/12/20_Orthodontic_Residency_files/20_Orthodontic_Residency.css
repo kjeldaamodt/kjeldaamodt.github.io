@@ -373,13 +373,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_770_66 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_315_30 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_256_129 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_770_29 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -398,6 +398,18 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+ol  { 
+      padding:0;
+      margin:0;
+      text-indent:0;
+      list-style-type:none ;
+      list-style-image:none
+    }
+.Bullet { 
+          text-decoration:none ;
+          text-transform:none ;
+          border: none;          
+        }
 .bumper {
     font-size: 1px;
     line-height: 1px;

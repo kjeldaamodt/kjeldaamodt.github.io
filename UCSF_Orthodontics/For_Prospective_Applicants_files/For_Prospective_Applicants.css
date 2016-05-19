@@ -229,9 +229,6 @@
     font-weight: 700;
     line-height: 29px;
 }
-.style_External_934_753 {
-    position: relative;
-}
 .paragraph_style_10 {
     color: rgb(255, 255, 255);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -278,6 +275,9 @@
     background: transparent;
     opacity: 0.33;
 }
+.style_External_934_760 {
+    position: relative;
+}
 .Body {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -303,7 +303,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_934_753 {
+.Normal_External_934_760 {
     position: relative;
 }
 .Title {
