@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="1E08F395-AD12-4A7E-93BD-F04EF0C6B859">
-  <lastEdited clientType="local-build-20160708" date="2016-07-08 19:03:24 +0000"/>
+  <lastEdited clientType="local-build-20160708" date="2016-07-08 19:22:20 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;GLOBAL HEALTH&lt;/b&gt;</richText>
   </textBox>
