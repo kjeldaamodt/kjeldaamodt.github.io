@@ -149,9 +149,6 @@
     font-weight: 400;
     line-height: 24px;
 }
-.style_External_1000_741 {
-    position: relative;
-}
 .paragraph_style_6 {
     color: rgb(232, 125, 42);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -193,6 +190,9 @@
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_1000_694 {
+    position: relative;
 }
 .style_SkipStroke_5 {
     background: transparent;
@@ -280,10 +280,10 @@
 .Normal_External_454_112 {
     position: relative;
 }
-.Normal_External_410_35 {
+.Normal_External_1000_694 {
     position: relative;
 }
-.Normal_External_1000_741 {
+.Normal_External_410_35 {
     position: relative;
 }
 .Normal_External_410_24 {
