@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="1E08F395-AD12-4A7E-93BD-F04EF0C6B859">
-  <lastEdited clientType="local-build-20160729" date="2016-07-29 16:11:55 +0000"/>
+  <lastEdited clientType="local-build-20160729" date="2016-07-29 16:15:25 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;GLOBAL HEALTH&lt;/b&gt;</richText>
   </textBox>
@@ -11,6 +11,6 @@
     <richText>The Division of Orthodontics at the University of California, San Francisco is offering one-year fellowships to overseas-qualified orthodontists.&#xD;&#xD;The program offers full participation in the didactic program and clinical experience in a modern orthodontic clinic working with our highly qualified faculty.  In addition, there will be opportunities for clinically oriented research.&#xD;&#xD;All fellows are expected to conduct a research project and submit an article to a peer-reviewed journal during their tenure.  Upon completion of the program, the fellow will receive a &#x201C;Completion of Fellowship Certificate&#x201D; as documentation of their participation in the program. &#xD;&#xD;In order to qualify for this opportunity, the fellow must have completed dental school and at least a two-year orthodontic program with a certificate of orthodontics in their home country.  The applicant must submit documentation to verify their orthodontic specialty training.  Applicants for the fellowship position must also submit at least two letters of recommendation from faculty in the orthodontic program from which they graduated. Furthermore, the fellow must have at least two years of practice experience either as faculty in a dental school&#x2019;s orthodontic program or in private practice.  A TOEFL test is required to ensure proficiency in the English language. &#xD;&#xD;The fee for the one-year program is $ 55,000.  The applicants are responsible for their own living, housing and visa expenses related to the program.&#xD;&#xD;To apply, please contact: &#xD;&lt;a href="mailto:Melissa.Fung@ucsf.edu"&gt;Melissa.Fung@ucsf.edu&lt;/a&gt;&#xD;Address:     707 Parnassus Avenue, D-3000&#xD;                    San Francisco, California 94143-0438&#xD;&#xD;</richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
-    <richText>&lt;b&gt;November 15, 2012&lt;/b&gt;</richText>
+    <richText>&lt;b&gt;July 29, 2016&lt;/b&gt;</richText>
   </textBox>
 </content>
