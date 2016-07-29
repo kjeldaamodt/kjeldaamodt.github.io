@@ -155,6 +155,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_597_244 {
+    position: relative;
+}
 .paragraph_style_7 {
     color: rgb(232, 125, 42);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -176,9 +179,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_597_244 {
-    position: relative;
 }
 .style_1 {
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -247,7 +247,7 @@
     opacity: 1.00;
 }
 .style_SkipStroke {
-    background: transparent;
+    background: rgb(224, 224, 224);
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
@@ -259,6 +259,10 @@
     opacity: 1.00;
 }
 .style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
     background: transparent;
     opacity: 1.00;
 }
@@ -364,6 +368,13 @@
 }
 .graphic_shape_layout_style_default_External_419_94 {
     position: relative;
+}
+.graphic_shape_layout_style_default_External_1003_41 {
+    position: relative;
+}
+.graphic_shape_style_default_SkipStroke {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
