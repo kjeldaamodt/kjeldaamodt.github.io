@@ -142,6 +142,28 @@
     text-transform: none;
 }
 .paragraph_style_6 {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_7 {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 11px;
@@ -163,7 +185,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_7 {
+.paragraph_style_8 {
     color: rgb(88, 77, 77);
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -185,7 +207,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_8 {
+.paragraph_style_9 {
     color: rgb(0, 0, 0);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 11px;
@@ -207,7 +229,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_9 {
+.paragraph_style_10 {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 11px;
@@ -238,28 +260,6 @@
     line-height: 24px;
     text-decoration: underline;
 }
-.paragraph_style_10 {
-    color: rgb(255, 38, 0);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 10px;
-    text-align: left;
-    text-decoration: underline;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -276,102 +276,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_1000_2898 {
-    position: relative;
-}
-.paragraph_style_11 {
-    color: rgb(0, 0, 0);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 10px;
-    text-align: left;
-    text-decoration: underline;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_12 {
-    color: rgb(0, 0, 0);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 10px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_13 {
-    color: rgb(0, 0, 0);
-    font-family: 'Cambria';
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 10px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_3 {
-    color: rgb(96, 149, 201);
-    line-height: 12px;
-    opacity: 1.00;
-}
-.paragraph_style_14 {
-    color: rgb(0, 0, 0);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 36px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 10px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: -18px;
-    text-transform: none;
-}
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
@@ -380,12 +284,15 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_131_24 {
+.style_External_1000_1587 {
     position: relative;
 }
 .style_SkipStroke_6 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_131_24 {
+    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -481,13 +388,13 @@
 .Normal_External_602_65 {
     position: relative;
 }
-.Normal_External_575_63 {
-    position: relative;
-}
 .Normal_External_131_24 {
     position: relative;
 }
-.Normal_External_1000_2898 {
+.Normal_External_575_63 {
+    position: relative;
+}
+.Normal_External_1000_1587 {
     position: relative;
 }
 .Previous {
@@ -585,6 +492,18 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+ol  { 
+      padding:0;
+      margin:0;
+      text-indent:0;
+      list-style-type:none ;
+      list-style-image:none
+    }
+.Bullet { 
+          text-decoration:none ;
+          text-transform:none ;
+          border: none;          
+        }
 .bumper {
     font-size: 1px;
     line-height: 1px;
